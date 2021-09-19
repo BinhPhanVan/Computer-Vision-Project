@@ -7,7 +7,7 @@ Include 2 project is Mouse and Keyboard
 ## Install
 1. Clone project:
 ```bash
-    $ git clone https://github.com/BinhPhanVan/Python
+    $ git clone https://github.com/BinhPhanVan/Computer-Vision-Project.git
 ```
 2. Install environment for project: 
 ```bash
